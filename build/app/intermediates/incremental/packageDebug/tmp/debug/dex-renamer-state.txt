@@ -1,4 +1,0 @@
-#Tue Oct 17 11:15:02 MSK 2023
-base.0=C\:\\Users\\Alina\\.vscode\\lichi_test\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
