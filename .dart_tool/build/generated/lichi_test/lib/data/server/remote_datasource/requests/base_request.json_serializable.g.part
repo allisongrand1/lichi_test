@@ -1,0 +1,9 @@
+// **************************************************************************
+// JsonSerializableGenerator
+// **************************************************************************
+
+Map<String, dynamic> _$BaseRequestToJson(BaseRequest instance) =>
+    <String, dynamic>{
+      'shop': instance.shop,
+      'lang': instance.lang,
+    };

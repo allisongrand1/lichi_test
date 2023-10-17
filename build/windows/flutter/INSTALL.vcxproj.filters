@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Alina\.vscode\lichi_test\build\windows\CMakeFiles\cc4bc241aa3717d34730f81e99b63304\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9E8384D1-E1F3-3E7D-A582-C0763EA28C57}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

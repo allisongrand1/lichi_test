@@ -1,0 +1,13 @@
+C:/Users/Alina/.vscode/lichi_test/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Alina/.vscode/lichi_test/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Alina/.vscode/lichi_test/build/windows/runner/Debug/flutter_secure_storage_windows_plugin.dll
+C:/Users/Alina/.vscode/lichi_test/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/Alina/.vscode/lichi_test/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Alina/.vscode/lichi_test/build/windows/runner/Debug/data/flutter_assets/assets/fonts/OpenSans-Light.ttf
+C:/Users/Alina/.vscode/lichi_test/build/windows/runner/Debug/data/flutter_assets/assets/fonts/OpenSans-Regular.ttf
+C:/Users/Alina/.vscode/lichi_test/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Alina/.vscode/lichi_test/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Alina/.vscode/lichi_test/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Alina/.vscode/lichi_test/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Alina/.vscode/lichi_test/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/Alina/.vscode/lichi_test/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
